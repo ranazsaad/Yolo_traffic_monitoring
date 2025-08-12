@@ -1,6 +1,6 @@
-# Yolo_traffic_monitoring
+# Yolo traffic monitoring
 comparing **YOLOv10n**, **YOLOv11n**, and **YOLOv12n** models for vehicles detection.  
-It includes **training**, **video inference**, and **Compressed video output** .
+It includes **training**, **video inference**, and **video output** .
 
 ---
 
