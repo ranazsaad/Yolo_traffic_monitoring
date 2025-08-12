@@ -21,7 +21,7 @@ It includes **training**, **video inference**, and **video output** .
 ---
 
 ## Technologies
-	•	Python 3.x
+	•	Python 
 	•	Ultralytics YOLO
 	•	FFmpeg
 	•	Google Colab
