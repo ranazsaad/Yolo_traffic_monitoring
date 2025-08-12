@@ -1,13 +1,13 @@
 # Yolo traffic monitoring
-comparing **YOLOv10n**, **YOLOv11n**, and **YOLOv12n** models for vehicles detection.  
+comparing **YOLO10n**, **YOLOv11n**, and **YOLOv12n** models for vehicles detection.  
 It includes **training**, **video inference**, and **video output** .
 
 ---
 
 ## Features
 - Train YOLOv10n, YOLOv11n, and YOLOv12n models on COCO8 dataset.
-- Run object detection on videos.
-- Compare detection results and inference speeds.
+- Run object detection on road traffic video.
+- compare the performance of YOLO10n, YOLOv11n, and YOLOv12n models by measuring results and inference speeds.
 - The result videos are displayed directly inside the notebook for easy visualization.
 ---
 
