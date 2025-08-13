@@ -1,13 +1,13 @@
 # Yolo traffic monitoring
 
 <img src="Yolo_detection.jpeg" alt="Description" width="600">
-comparing **YOLO10n**, **YOLOv11n**, and **YOLOv12n** models for vehicles detection.  
-It includes **training**, **video inference**, and **video output** .
+comparing YOLO10n , YOLOv11n, and YOLOv12n models for vehicles detection.  
+It includes training, video inference, and video output.
 
 ---
 
 ## Features
-- Train YOLOv10n, YOLOv11n, and YOLOv12n models on COCO8 dataset.
+- Train YOLO10n, YOLOv11n, and YOLOv12n models on COCO8 dataset.
 - Run object detection on road traffic video.
 - compare the performance of YOLO10n, YOLOv11n, and YOLOv12n models by measuring results and inference speeds.
 - The result videos are displayed directly inside the notebook for easy visualization.
@@ -26,4 +26,4 @@ It includes **training**, **video inference**, and **video output** .
 	•	Python 
 	•	Ultralytics YOLO
 	•	FFmpeg
-	•	Google Colab
+	
