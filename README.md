@@ -1,4 +1,6 @@
 # Yolo traffic monitoring
+
+<img src="Yolo_detection.jpeg" alt="Description" width="600">
 comparing **YOLO10n**, **YOLOv11n**, and **YOLOv12n** models for vehicles detection.  
 It includes **training**, **video inference**, and **video output** .
 
